@@ -11,6 +11,6 @@ Please fill in the table below the reference to where you uploaded you trace dat
 | Team 3 | |
 | Team 4 | |
 | Team 5 | |
-| Team 6 | |
+| Team 6 | | 10.5281/zenodo.10640335
 | Team 7 | |
 | Team 8 | |
